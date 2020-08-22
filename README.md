@@ -1,5 +1,5 @@
 # Restaurant_Billing_System
-This a a restaurant management software developed in PHP language using the latest Codeigniter framework
+This a restaurant management software developed in PHP language using the latest Codeigniter framework
 
 To deploy this application, make sure you are running this in Jupyter notebook
 
